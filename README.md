@@ -8,6 +8,6 @@ click on 'Help' in client menu bar to view all chat options.
 kick,
 mute,
 unmute,
-inviteMan,
+add an admin,
 quit,
 view-managers.
