@@ -5,6 +5,7 @@ Run server first.
 'admin' is the first admin, first to log in with 'admin' username is the admin.                                                      
 click on 'Help' in client menu bar to view all chat options.                                                      
 
+private messages,
 kick,
 mute,
 unmute,
